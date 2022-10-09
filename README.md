@@ -1,3 +1,3 @@
 # NYUx-CPP.PRG.1
 
-All the labs from the NYU: Introduction to programming in C++ course.
+All the labs from the NYUx: Introduction to programming in C++ course.
